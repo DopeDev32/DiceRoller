@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         }
         diceImag = binding.diceimg
     }
-
+    // a change
     private fun rolldice() {
         // Generating Random number
         val randNum = Random.nextInt(6) + 1
