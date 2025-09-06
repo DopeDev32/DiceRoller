@@ -23,4 +23,4 @@ width="300" hspace="10" align="right">
 
 ---
 ## 🚀 Try It Out  
-[⬇️ Download APK](https://drive.google.com/file/d/110XJNm_xoMTYZFPxyTINvc3dNZU4U1tM/view?usp=sharing)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://drive.google.com/uc?export=download&id=110XJNm_xoMTYZFPxyTINvc3dNZU4U1tM)
