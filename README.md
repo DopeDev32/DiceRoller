@@ -1,7 +1,8 @@
 # 🎲 Dice Roller App  
 
 A simple and elegant **Dice Roller** Android app built using **XML** for UI and **Kotlin** for logic.<br/> Tap the button and let the dice roll for a random outcome — perfect for games, decision-making, or just for fun!  
-
+<img src="diceroller.gif" 
+width="300" hspace="10" align="right">
 ## ✨ Features  
 - 🎯 **Minimal & Clean UI** – Dark theme for a modern touch.  
 - 🎲 **Random Dice Roll** – Generates a number between 1–6.  
